@@ -1,7 +1,7 @@
 #include<ESP8266WiFi.h>  //importation de bibliotheques
 #include<WiFiClient.h>
 #include <WiFiUDP.h>  //pour udp
-#include<ESP8266WebServer.h> //serveur web
+#include<ESP8266WebServer.h> //serveur webs
 #include <SoftwareSerial.h>
 
 #include <PZEM004Tv30.h> //pour capteur pzem
